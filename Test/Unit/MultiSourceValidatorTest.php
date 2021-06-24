@@ -1,6 +1,6 @@
 <?php
 
-namespace BP\Checkout\Test\Unit;
+namespace MK\Module\Test\Unit;
 
 use MK\Module\Service\MultiSourceService;
 use MK\Module\Validator\MultisourceValidator;
